@@ -73,11 +73,11 @@ PCA-based models demonstrate that the nature of a patient’s condition matters 
 
 Feature mapping from PCA components offers clinical insights into complex infertility profiles.
 
-📎 Notebook Link
-Access the full notebook here:
+### 📎 Notebook Link
+Access the full notebook here: <br>
 🔗 [female-infertility.ipynb](https://github.com/nisha-k-k/Female_Infertility/blob/main/female-infertility.ipynb)
 
-## 🧠 Future Work
+### 🧠 Future Work
 Because the dataset is realtively small (only about 705 rows; just over 500 when dropping duplicate rows for classification), I would like to dive into more data in addition to this dataset, in order to build an even better understanding of female infertility. Ideally, the data would be from places all across the world for a better, to get a better sample representation of the overall female population. In addition to this, I am considering expanding the project to dive into other questions, such as "Is 'Unexplained Infertility' TRULY Unexplained?". 
 
 🤝 Let's Connect
