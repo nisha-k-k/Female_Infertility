@@ -1,5 +1,7 @@
 # 🧬 Predicting Female Infertility Using Clustering and PCA-Based Classification
-This notebook explores female infertility through the lens of machine learning. It focuses on two core questions:
+(see notebook for full project report) 
+
+This project explores female infertility through the lens of machine learning. It focuses on two core questions:
 
 *Can we identify subtypes of infertility based on shared condition patterns?*
 
